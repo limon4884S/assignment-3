@@ -1,0 +1,35 @@
+body{
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Taviraj', serif;
+
+}
+.div-1 {
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/cover/cover-1.png);
+    background-size: cover;
+    background-position:center;
+    height: 80vh;
+    background-attachment: fixed;
+}
+.div-2 {
+     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/cover/cover-2.jpg);
+    background-size: cover;
+    background-position:center;
+    height: 80vh;
+    background-attachment: fixed; 
+}
+.div-3 {
+      background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/cover/cover-3.jpg);
+    background-size: cover;
+    background-position:center;
+    height: 80vh;
+    background-attachment: fixed;
+}
+.div-4 {
+    padding-top: 40px;
+}
+.footer {
+    margin-left: 44%;
+}
